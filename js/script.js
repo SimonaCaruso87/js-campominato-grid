@@ -1,6 +1,6 @@
 /*
   Consegna:
-  
+
 L'utente clicca su un bottone che genererà una griglia di gioco quadrata.
 Ogni cella ha un numero progressivo, da 1 a 100.
 Ci saranno quindi 10 caselle per ognuna delle 10 righe.
@@ -16,6 +16,27 @@ Ad esempio:
 Di cosa ho bisogno per generare i numeri?
 Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dati giusti.
 Le validazioni e i controlli possiamo farli anche in un secondo momento.*/
+
+//1)L'utente cliccando su un bottone genererà una griglia di gioco quadrata
+
+
+
+
+//1)Creo un ciclo
+    //PER OGNI ITERAZIONE:
+    //1a)Stampami in console i numeri da 1 a 100
+
+    //Ci saranno quindi 10 caselle per ognuna delle 10 righe.
+
+
+
+    for(let numero=1 ; numero <= 100 ; numero++){
+
+        // crea un nuovo elemento div
+        const newDiv = document.createElement("div");
+        //aggiungi un nodo di testo al div appena creato
+        newDiv.classList.add('col-md-1','my-box');
+        document.getElementById("div1").appendChild(newDiv);
 
 
 
