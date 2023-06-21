@@ -1,10 +1,6 @@
-# js-campominato-grid
-
-Ciao ragazzi,
-Esercizio di oggi: Griglia Campo Minato
-nome repo: js-campominato-grid
-
-Consegna
+/*
+  Consegna:
+  
 L'utente clicca su un bottone che genererà una griglia di gioco quadrata.
 Ogni cella ha un numero progressivo, da 1 a 100.
 Ci saranno quindi 10 caselle per ognuna delle 10 righe.
@@ -19,4 +15,19 @@ Scriviamo prima cosa vogliamo fare passo passo in italiano, dividiamo il lavoro 
 Ad esempio:
 Di cosa ho bisogno per generare i numeri?
 Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dati giusti.
-Le validazioni e i controlli possiamo farli anche in un secondo momento.
+Le validazioni e i controlli possiamo farli anche in un secondo momento.*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+// FUNCTIONS
+
